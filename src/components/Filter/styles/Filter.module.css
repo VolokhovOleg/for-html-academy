@@ -1,0 +1,20 @@
+.FilterBlock {
+  display: grid;
+  grid-area: filter;
+  grid-column: 1;
+  grid-row: 1 / -1;
+  height: 252px;
+}
+
+.FilterBlock_title {
+  margin-bottom: 20px;
+}
+
+.FilterBlock_list {
+  display: flex;
+  flex-direction: column;
+}
+
+.FilterBlock_item {
+  display: flex;
+}

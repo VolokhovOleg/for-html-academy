@@ -1,0 +1,10 @@
+.HeaderBlock {
+  display: grid;
+  grid-area: header;
+  justify-content: center;
+}
+
+.HeaderBlock_logo {
+  width: 82px;
+  height: 89px;
+}

@@ -1,0 +1,14 @@
+:root {
+  --DefaultFontFamily: 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
+
+  --Black: #000000;
+  --PrimeryBlack: #4a4a4a;
+  --PrimeryBlue: #2196f3;
+  --White: #ffffff;
+  --Gray: #a0b0b9;
+  --CheckboxBorderColor: #9abbce;
+  --CheckboxHoverColor: #f1fcff;
+  --TabsBorderColor: #dfe5ec;
+
+  --DefaultShadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
